@@ -36,7 +36,12 @@ def connect_account():
     print_out("Logged in", colorama.Fore.GREEN)
 
     driver.implicitly_wait(2)
-    acceptcookiesid = wait.until(EC.element_to_be_clickable((By.ID, "accept-choices"))).click()
+    
+    try:
+        acceptcookiesid = wait.until(EC.element_to_be_clickable((By.ID, "accept-choices"))).click()
+    except:
+        pass
+    
     driver.implicitly_wait(2)
 
     serverelement = wait.until(EC.element_to_be_clickable((By.CLASS_NAME, "server-body"))).click()
