@@ -39,7 +39,7 @@ async def launch(ctx):
 
         author = ctx.author
 
-        print("[" + datetime.datetime.now().strftime("%H:%M:%S") + "]" + colorama.Fore.GREEN + "Server launched by " + colorama.Fore.CYAN + author.name, author.discriminator + colorama.Style.RESET_ALL)
+        print("[" + datetime.datetime.now().strftime("%H:%M:%S") + "]" + colorama.Fore.GREEN + " Server launched by " + colorama.Fore.CYAN + author.name, author.discriminator + colorama.Style.RESET_ALL)
 
         while True:
             time.sleep(5)
