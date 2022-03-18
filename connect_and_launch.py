@@ -83,6 +83,8 @@ def start_server():
 
 
 def get_status():
+    wait = WebDriverWait(driver, 5)
+    startelement = wait.until(EC.presence_of_element_located((By.CLASS_NAME, "statuslabel-label")))
     return driver.find_element(By.CLASS_NAME, "statuslabel-label").text
 
 
