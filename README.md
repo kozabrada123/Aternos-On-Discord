@@ -26,8 +26,8 @@ An update of Mekolaos's repo.
 - [Aternos On Discord](#aternos-on-discord)
   - [Prerequisites](#prerequisites)
   - [Getting Started](#getting-started)
-    - [Windows/Mac/Linux (x64)](https://github.com/kozabrada123/Aternos-On-Discord-Update/wiki/Windows---Mac---Linux-(x64)-Setup)
-    - [Raspberry Pi (ARM)](https://github.com/kozabrada123/Aternos-On-Discord-Update/wiki/RPI---Arm-setup)
+    - [Windows/Mac/Linux (x64)](../../wiki/Windows---Mac---Linux-(x64)-Setup)
+    - [Raspberry Pi (ARM)](../../wiki/RPI---Arm-setup)
   - [Usage](#usage)
   - [Cloud Hosting Note](#cloud-hosting-note)
 
@@ -43,7 +43,7 @@ An update of Mekolaos's repo.
 
 ## Getting Started
 
-Visit the [wiki](https://github.com/kozabrada123/Aternos-On-Discord-Update/wiki) for info on installing and getting started.
+Visit the [wiki](../../wiki) for info on installing and getting started.
 
 ## Usage:
 
