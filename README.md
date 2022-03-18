@@ -5,6 +5,7 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/kozabrada123/Aternos-On-Discord-Update)
 ![GitHub issues](https://img.shields.io/github/issues/kozabrada123/Aternos-On-Discord-Update)
 ![GitHub last commit](https://img.shields.io/github/last-commit/kozabrada123/Aternos-On-Discord-Update)
+![LOC](https://img.shields.io/tokei/lines/github/kozabrada123/Aternos-On-Discord-Update)
 
 
 A Discord bot made in Python which manages an Aternos Minecraft server.
