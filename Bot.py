@@ -23,8 +23,11 @@ async def on_ready():
 
     #Login to aternos here
     connect_and_launch.connect_account()
+    
+    #Wait a second
+    time.sleep(3)
 
-    #Start both thingies
+    #Start both tasks
     reloadBrowser.start()
     updateStatus.start()
 
