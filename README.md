@@ -8,10 +8,10 @@
 ![LOC](https://img.shields.io/tokei/lines/github/kozabrada123/Aternos-On-Discord-Update)
 
 
-A Discord bot made in Python which manages an Aternos Minecraft server.
+An Aternos Discord bot made in Python which manages an Aternos Minecraft server.
 
 
-Logins to Aternos and can start the server and take commands from Discord.
+Logins to Aternos and can show status, launch the server and more.
 
 <br/>
 
