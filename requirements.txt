@@ -9,7 +9,7 @@ chardet==4.0.0
 chromedriver==2.24.1
 click==7.1.2
 colorama==0.4.4
-cryptography==36.0.1
+cryptography==39.0.1
 discord==1.7.3
 discord.py==1.7.3
 dnspython==2.1.0
